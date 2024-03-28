@@ -8,8 +8,8 @@
 #show_downloads: true
 title: Data Engineer
 author:
-  name: Sharath Diwakar
-  email: your-mailmesharathd@gmail.com
+name: Sharath Diwakar
+email: your-mailmesharathd@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
